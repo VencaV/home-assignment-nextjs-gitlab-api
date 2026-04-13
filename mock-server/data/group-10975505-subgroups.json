@@ -1,0 +1,20 @@
+[
+  {
+    "id": 10975587,
+    "name": "Skupina 1",
+    "full_path": "acme-corp/testovaci-zadani/skupina-1",
+    "web_url": "https://gitlab.com/groups/acme-corp/testovaci-zadani/skupina-1"
+  },
+  {
+    "id": 10975598,
+    "name": "Skupina 2",
+    "full_path": "acme-corp/testovaci-zadani/skupina-2",
+    "web_url": "https://gitlab.com/groups/acme-corp/testovaci-zadani/skupina-2"
+  },
+  {
+    "id": 10975599,
+    "name": "Skupina 3",
+    "full_path": "acme-corp/testovaci-zadani/skupina-3",
+    "web_url": "https://gitlab.com/groups/acme-corp/testovaci-zadani/skupina-3"
+  }
+]

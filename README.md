@@ -25,6 +25,22 @@ GITLAB_ACCESS_TOKEN=glpat-your-token-here
 GITLAB_BASE_URL=https://gitlab.com/api/v4   # optional, defaults to gitlab.com
 ```
 
+## Mock Server
+
+If you don't have GitLab access, a mock server is available in `mock-server/`. It serves pre-captured GitLab API responses locally.
+
+```bash
+cd mock-server && pnpm install && pnpm start
+```
+
+Then point the app at it by changing `GITLAB_BASE_URL` in `.env.local`:
+
+```env
+GITLAB_BASE_URL=http://localhost:3001
+```
+
+See [mock-server/README.md](mock-server/README.md) for full instructions.
+
 ## Development
 
 ```bash

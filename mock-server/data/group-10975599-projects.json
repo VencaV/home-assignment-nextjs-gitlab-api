@@ -1,0 +1,14 @@
+[
+  {
+    "id": 24396374,
+    "name": "Projekt 2",
+    "path_with_namespace": "acme-corp/testovaci-zadani/skupina-3/projekt-2",
+    "web_url": "https://gitlab.com/acme-corp/testovaci-zadani/skupina-3/projekt-2"
+  },
+  {
+    "id": 24396372,
+    "name": "Projekt 1",
+    "path_with_namespace": "acme-corp/testovaci-zadani/skupina-3/projekt-1",
+    "web_url": "https://gitlab.com/acme-corp/testovaci-zadani/skupina-3/projekt-1"
+  }
+]

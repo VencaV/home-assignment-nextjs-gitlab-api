@@ -1,0 +1,16 @@
+[
+  {
+    "id": 100004,
+    "name": "Ned Flanders",
+    "username": "user_4",
+    "access_level": 10,
+    "web_url": "https://gitlab.com/user_4"
+  },
+  {
+    "id": 100005,
+    "name": "Waylon Smithers",
+    "username": "user_5",
+    "access_level": 30,
+    "web_url": "https://gitlab.com/user_5"
+  }
+]

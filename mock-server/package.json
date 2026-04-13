@@ -1,0 +1,22 @@
+{
+  "name": "mock-server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0",
+    "pnpm": ">=10.0.0"
+  },
+  "scripts": {
+    "start": "tsx server.ts",
+    "capture": "tsx --env-file=../.env.local capture.ts"
+  },
+  "dependencies": {
+    "fastify": "5.8.4"
+  },
+  "devDependencies": {
+    "tsx": "4.21.0",
+    "@types/node": "20.19.39",
+    "typescript": "5.9.3"
+  }
+}
