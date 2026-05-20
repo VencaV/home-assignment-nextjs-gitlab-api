@@ -30,11 +30,11 @@
     "@types/node": "20.19.39",
     "@types/react": "19.2.15",
     "@types/react-dom": "19.2.3",
-    "@vitest/coverage-v8": "4.1.6",
+    "@vitest/coverage-v8": "4.1.7",
     "eslint": "9.39.4",
     "eslint-config-next": "16.2.6",
     "typescript": "5.9.3",
-    "vitest": "4.1.6"
+    "vitest": "4.1.7"
   },
   "packageManager": "pnpm@10.30.2"
 }
